@@ -1,0 +1,9 @@
+{
+  "name": "Simple Sourdough Loaf",
+  "ingredients": {
+    "bread flour": 500,
+    "water": 350,
+    "salt": 10,
+    "starter": 100
+  }
+}
